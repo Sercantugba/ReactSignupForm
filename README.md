@@ -1,3 +1,17 @@
+Objectives:
+Create a controlled component (form) inside of a react app. 
+
+This form should have a user input information about themselves. Username, password, age, gender (male, female, or other options), and occupation.
+
+You should have in your state. Username, password, age, gender (male, female, or other options), and occupation.
+
+The when a button is pressed a component should show up under the form and display all of this information.
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
