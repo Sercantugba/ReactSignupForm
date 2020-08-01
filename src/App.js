@@ -40,7 +40,7 @@ handleInput = () => {
           <button onClick={this.handleInput} > Submit </button>
         </form>
         <ul className='userInfo-display' >
-        <h1 style={{display: 'none'}} id='proceed' > Are you ok with this information? </h1>
+        <h1 style={{display: 'none'}} id='proceed' > Here are your information </h1>
           <li id='username' > </li>
           <li id='age' > </li>
           <li id='gender' > </li>
