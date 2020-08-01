@@ -30,7 +30,7 @@ handleInput = () => {
   render() { 
     return ( 
       <div className='App' >
-        <h1> Sign UP! </h1>
+        <h1> Sign Up Form </h1>
         <form className='form' onSubmit={this.handleSubmit} >
           <input type='username' placeholder='User name' onChange={e => this.setState({username: e.target.value})} required/>
           <input type='age' placeholder='Age' onChange={e => this.setState({age: e.target.value})} />
