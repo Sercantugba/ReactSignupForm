@@ -2,6 +2,7 @@
   display: grid;
   grid-template-rows: auto;
   justify-content: center;
+  background-color: red;
 }
 
 .App h1 {
